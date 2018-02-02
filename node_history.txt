@@ -1,0 +1,67 @@
+﻿for(var index in myvar) console.log(myvar[index])
+for(var index in myvar.g) console.log(myvar.g[index])
+console.log(myvar.g[i])
+for(var i=0;i< myvar.g.length;i++)
+for(i=0;i<4;i++) console.log(myvar.g[i]);
+for(i=0;i<5;i++) console.log(myvar.g[i]);
+myvar
+myvar.g=[1,2,3,'a','bc']
+myvar.g=[1,2,3'a','bc']
+myvar.f()
+myvar.f
+myvar.f=()=>{return 'foo'}
+var myvar={x:1,y:2,str:'String'}
+abc
+h('John')
+h=function abc(args) {return 'Text:'+args;}
+h('John')
+h=(args)=>{return 'text:'+args;}
+h('John')
+g=()=>{return 'text:'+args;}
+g= function goo() {return 'goo';}
+f()
+f=function foo() {return 'foo'}
+foo()
+function foo() {return'foo';}
+Foo()
+foo()
+c==d 
+var d = {x:1,y:2};
+var c = {x:1,y:2};
+e==f
+var f = "te"+"xt"
+var e = "text";
+1==01
+''==0
+''==1
+2==1
+1==1
+objBob.foo.description
+objBob.foo.description="this is foo function"
+objBob.foo()
+foo
+objBob.foo()
+objBob.foo=function foo() {console.log('Foo')}
+foo
+Foo
+objBob
+objBob.myArray=myArray
+myArray[4]
+myArray[1]
+myArray[0]
+myArray=[1,2,3,'foo','bar']
+objBob
+objBob.fullname="john"
+objBob.name
+obj.name
+objBob = {name:"Bob",grade:'A',level: 3}
+b
+ิ
+foo()
+a
+foo()
+function foo() {var a=4; console.log(a);}
+x
+{var x=7 ; console.log(x);}
+console.log("Hello world") || ''
+console.log("Hello World")
